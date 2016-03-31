@@ -1,2 +1,2 @@
 # swoaf
-A routing tool for service worker
+A routing tool for service worker fetch interceptor

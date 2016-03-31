@@ -1,0 +1,24 @@
+{
+  "name": "swoaf",
+  "version": "0.0.1",
+  "description": "A routing tool for service worker fetch interceptor",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aihornmac/swoaf.git"
+  },
+  "keywords": [
+    "service",
+    "worker",
+    "fetch"
+  ],
+  "author": "Aihorn Mac <aihornmac@ihawn.com> (https://ihawn.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aihornmac/swoaf/issues"
+  },
+  "homepage": "https://github.com/aihornmac/swoaf/"
+}
